@@ -12,6 +12,8 @@ int main()
     int arr[20], n;
     bool running = true;
 
+    
+
     cout << "Enter number of elements: ";
     cin >> n;
 
